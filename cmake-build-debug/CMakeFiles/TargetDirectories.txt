@@ -1,0 +1,3 @@
+C:/Users/PC Antonio/OneDrive/Documentos/Pilas_Colas_Iteradores/cmake-build-debug/CMakeFiles/Pilas_Colas_Iteradores.dir
+C:/Users/PC Antonio/OneDrive/Documentos/Pilas_Colas_Iteradores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC Antonio/OneDrive/Documentos/Pilas_Colas_Iteradores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
